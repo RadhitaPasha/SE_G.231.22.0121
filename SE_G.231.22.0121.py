@@ -19,3 +19,5 @@ for j in range (0, len(words)):
     count = 0
 # Lalu liat hasil
 print(counts)
+PS C:\Users\Pinkan> & F:/Users/Pinkan/anaconda3/python.exe c:/Users/Pinkan/Documents/SE_G.231.22.0121.py
+{'Bagaimana': 1, 'cara': 1, 'membuat': 1, 'mie': 1, 'ayam': 1}
